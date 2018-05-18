@@ -1,0 +1,854 @@
+{
+  "project_info": {
+    "project_number": "757925985579",
+    "firebase_url": "https://howlcoding.firebaseio.com",
+    "project_id": "howlcoding",
+    "storage_bucket": "howlcoding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:674a2927c05a8e3a",
+        "android_client_info": {
+          "package_name": "com.bpplatform.myemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-q5ra92rsgev7gpkj486db8tha95mu5am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bpplatform.myemail",
+            "certificate_hash": "173a34ab33c491c5487a611f3a33d4fefbd133d4"
+          }
+        },
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:9cc77203d0070bd5",
+        "android_client_info": {
+          "package_name": "com.company.howl.sendaudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-rni89dq66ujkpbsueqm24i81st489olq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.howl.sendaudio",
+            "certificate_hash": "c57c8ad2cc8d0b30c549beb473e0f0c61dc4d4fe"
+          }
+        },
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:f5ddac797bc1e9c7",
+        "android_client_info": {
+          "package_name": "com.example.minsoo.loginpart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-rth8nvvq3ldtleb6iobncrvurf9paj7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minsoo.loginpart1",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:2c6ee62a830d837a",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howladmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:c9fd2a809cdfeffe",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howldynamiclinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-sm1sevmq70gad67ssa80jfjgc33ki5ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myeongsic.howldynamiclinks",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:12ae17576867046f",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howlfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-4gc5t37tj75g7f4v68oel1jh8br4dp66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myeongsic.howlfirebaseauth",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:a8e4c2f9f1fcf885",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howlnofitication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:a98fc0a89bd043de",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.myadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-6cg468hc0lmrvblh0sam688ppdpfl39n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:e45c03a85ec7aab2",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.deeplinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-47njhfjfnm6jv20grgj9f5s57j0l7q8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.deeplinks",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:1eb7eea13e1df770",
+        "android_client_info": {
+          "package_name": "com.howl.fcmupstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:e0275cf6125ae8bb",
+        "android_client_info": {
+          "package_name": "com.mssoft.myeongsic.firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-2522sh3r3fj4gld222u82h98p7e14mf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mssoft.myeongsic.firebasechatting",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:9465f60ca7b8654a",
+        "android_client_info": {
+          "package_name": "com.mssoft.myeongsic.howlfirebaseband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-lse1qd4udo9namg5kbrnj4jg4otf9shc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mssoft.myeongsic.howlfirebaseband",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:7dbd01deca5a46dd",
+        "android_client_info": {
+          "package_name": "com.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:96f7052c1bdddc46",
+        "android_client_info": {
+          "package_name": "com.wedevol.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-tmmgu1f8240gkv1q210nr32mbe96t1db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wedevol.fcmtest",
+            "certificate_hash": "173a34ab33c491c5487a611f3a33d4fefbd133d4"
+          }
+        },
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:faed6d585a7a01d6",
+        "android_client_info": {
+          "package_name": "io.github.stack07142.firebase_photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-bnajn9eicc9t88pb47mhioe819ssqnm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.stack07142.firebase_photos",
+            "certificate_hash": "c57c8ad2cc8d0b30c549beb473e0f0c61dc4d4fe"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:a95b7ca77cd7101c",
+        "android_client_info": {
+          "package_name": "myeongsic.example.com.myfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "757925985579-ltftu4pcf67m87leerkta6kgu9hjhd0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myeongsic.example.com.myfirestore",
+            "certificate_hash": "218b62f552eb3c4c416eaa35c9c64070a109a5d2"
+          }
+        },
+        {
+          "client_id": "757925985579-lv9ntekpd5ln05nrsuqirjuh0l4e8426.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myeongsic.example.com.myfirestore",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-gaoeqh8bq46npf7do1vcgcbehgqmcrdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757925985579-rhg42bl4p2lls28sfsh9a79vf4k28kfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bpplatform.howlemail"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
